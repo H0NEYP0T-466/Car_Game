@@ -5,6 +5,7 @@
 ![GitHub Forks](https://img.shields.io/github/forks/H0NEYP0T-466/Car_Game?style=for-the-badge&color=blue)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
 ![GitHub Issues](https://img.shields.io/github/issues/H0NEYP0T-466/Car_Game?style=for-the-badge&color=red)
+![Car Game Banner](./Gemini_Generated_Image_umwe5yumwe5yumwe.png)
 
 > A classic console-based car racing game built in C++ where you dodge enemy cars and try to achieve the highest score possible!
 
